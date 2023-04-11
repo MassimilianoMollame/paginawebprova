@@ -1,0 +1,34 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: #F6DDBB;
+;
+}
+.myDiv{display: flex;
+flex-direction: row;}
+.myDiv1{display: flex;
+       flex-direction: row;}
+.myDiv2{display: flex;
+        flex-direction: row;}
+img {
+    max-width: 100%;
+    
+}
+
+
+header {
+    max-width: 1200px;
+    height: fit-content;
+    background-color: #00BD9D;
+    margin: auto;
+ font-size: large;
+}
+main {
+    max-width: 1200px;
+    margin: auto;
+    
+}
+footer {
+    max-width: 1200px;
+    background-color:#FF5000 ;
+    margin: auto;
+}
